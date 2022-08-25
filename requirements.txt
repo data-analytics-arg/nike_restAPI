@@ -1,5 +1,6 @@
    flask==2.1.2 
    gunicorn
+   unixodbc
    pyodbc==4.0.32
    SQLAlchemy==1.4.39
    pandas==1.4.2
